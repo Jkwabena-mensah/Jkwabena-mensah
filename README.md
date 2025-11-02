@@ -13,7 +13,7 @@ Professional Engineer with BSc Telecommunication Engineering, HND Electrical / E
 - **Data & Analytics:** Tableau, Power BI, Splunk, Machine Learning
 - **Web Development:** ASP.NET Core
 - **Telecom:** 5G Architecture, RF Planning, Network Design
-- **Industrial:** SCADA, MCC Panels, High-Voltage Systems
+- **Industrial:** SCADA, MCC Panels, RIO Panel Terminations
 
 ## 🎓 Certifications
 - 5G Mobile Networks Specialization (LearnQuest)
